@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Splinh.github.io/archive-m0ti6l/sitemap.xml
